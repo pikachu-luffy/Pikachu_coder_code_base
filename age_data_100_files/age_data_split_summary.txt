@@ -1,0 +1,116 @@
+CSV File Split Summary
+==================================================
+
+Input file: age_data.csv
+Total data rows: 9,522,753
+Processed rows: 9,522,753
+Target files: 100
+Actual files created: 100
+Rows per file (target): 95,228
+Output directory: age_data_100_files
+Header columns: 7
+
+File Details:
+--------------------------------------------------------------------------------
+File   Filename                            Rows       Row Range      
+--------------------------------------------------------------------------------
+1      age_data_part_01.csv                95,228     1-95228        
+2      age_data_part_02.csv                95,228     95229-190456   
+3      age_data_part_03.csv                95,228     190457-285684  
+4      age_data_part_04.csv                95,228     285685-380912  
+5      age_data_part_05.csv                95,228     380913-476140  
+6      age_data_part_06.csv                95,228     476141-571368  
+7      age_data_part_07.csv                95,228     571369-666596  
+8      age_data_part_08.csv                95,228     666597-761824  
+9      age_data_part_09.csv                95,228     761825-857052  
+10     age_data_part_10.csv                95,228     857053-952280  
+11     age_data_part_11.csv                95,228     952281-1047508 
+12     age_data_part_12.csv                95,228     1047509-1142736
+13     age_data_part_13.csv                95,228     1142737-1237964
+14     age_data_part_14.csv                95,228     1237965-1333192
+15     age_data_part_15.csv                95,228     1333193-1428420
+16     age_data_part_16.csv                95,228     1428421-1523648
+17     age_data_part_17.csv                95,228     1523649-1618876
+18     age_data_part_18.csv                95,228     1618877-1714104
+19     age_data_part_19.csv                95,228     1714105-1809332
+20     age_data_part_20.csv                95,228     1809333-1904560
+21     age_data_part_21.csv                95,228     1904561-1999788
+22     age_data_part_22.csv                95,228     1999789-2095016
+23     age_data_part_23.csv                95,228     2095017-2190244
+24     age_data_part_24.csv                95,228     2190245-2285472
+25     age_data_part_25.csv                95,228     2285473-2380700
+26     age_data_part_26.csv                95,228     2380701-2475928
+27     age_data_part_27.csv                95,228     2475929-2571156
+28     age_data_part_28.csv                95,228     2571157-2666384
+29     age_data_part_29.csv                95,228     2666385-2761612
+30     age_data_part_30.csv                95,228     2761613-2856840
+31     age_data_part_31.csv                95,228     2856841-2952068
+32     age_data_part_32.csv                95,228     2952069-3047296
+33     age_data_part_33.csv                95,228     3047297-3142524
+34     age_data_part_34.csv                95,228     3142525-3237752
+35     age_data_part_35.csv                95,228     3237753-3332980
+36     age_data_part_36.csv                95,228     3332981-3428208
+37     age_data_part_37.csv                95,228     3428209-3523436
+38     age_data_part_38.csv                95,228     3523437-3618664
+39     age_data_part_39.csv                95,228     3618665-3713892
+40     age_data_part_40.csv                95,228     3713893-3809120
+41     age_data_part_41.csv                95,228     3809121-3904348
+42     age_data_part_42.csv                95,228     3904349-3999576
+43     age_data_part_43.csv                95,228     3999577-4094804
+44     age_data_part_44.csv                95,228     4094805-4190032
+45     age_data_part_45.csv                95,228     4190033-4285260
+46     age_data_part_46.csv                95,228     4285261-4380488
+47     age_data_part_47.csv                95,228     4380489-4475716
+48     age_data_part_48.csv                95,228     4475717-4570944
+49     age_data_part_49.csv                95,228     4570945-4666172
+50     age_data_part_50.csv                95,228     4666173-4761400
+51     age_data_part_51.csv                95,228     4761401-4856628
+52     age_data_part_52.csv                95,228     4856629-4951856
+53     age_data_part_53.csv                95,228     4951857-5047084
+54     age_data_part_54.csv                95,228     5047085-5142312
+55     age_data_part_55.csv                95,228     5142313-5237540
+56     age_data_part_56.csv                95,228     5237541-5332768
+57     age_data_part_57.csv                95,228     5332769-5427996
+58     age_data_part_58.csv                95,228     5427997-5523224
+59     age_data_part_59.csv                95,228     5523225-5618452
+60     age_data_part_60.csv                95,228     5618453-5713680
+61     age_data_part_61.csv                95,228     5713681-5808908
+62     age_data_part_62.csv                95,228     5808909-5904136
+63     age_data_part_63.csv                95,228     5904137-5999364
+64     age_data_part_64.csv                95,228     5999365-6094592
+65     age_data_part_65.csv                95,228     6094593-6189820
+66     age_data_part_66.csv                95,228     6189821-6285048
+67     age_data_part_67.csv                95,228     6285049-6380276
+68     age_data_part_68.csv                95,228     6380277-6475504
+69     age_data_part_69.csv                95,228     6475505-6570732
+70     age_data_part_70.csv                95,228     6570733-6665960
+71     age_data_part_71.csv                95,228     6665961-6761188
+72     age_data_part_72.csv                95,228     6761189-6856416
+73     age_data_part_73.csv                95,228     6856417-6951644
+74     age_data_part_74.csv                95,228     6951645-7046872
+75     age_data_part_75.csv                95,228     7046873-7142100
+76     age_data_part_76.csv                95,228     7142101-7237328
+77     age_data_part_77.csv                95,228     7237329-7332556
+78     age_data_part_78.csv                95,228     7332557-7427784
+79     age_data_part_79.csv                95,228     7427785-7523012
+80     age_data_part_80.csv                95,228     7523013-7618240
+81     age_data_part_81.csv                95,228     7618241-7713468
+82     age_data_part_82.csv                95,228     7713469-7808696
+83     age_data_part_83.csv                95,228     7808697-7903924
+84     age_data_part_84.csv                95,228     7903925-7999152
+85     age_data_part_85.csv                95,228     7999153-8094380
+86     age_data_part_86.csv                95,228     8094381-8189608
+87     age_data_part_87.csv                95,228     8189609-8284836
+88     age_data_part_88.csv                95,228     8284837-8380064
+89     age_data_part_89.csv                95,228     8380065-8475292
+90     age_data_part_90.csv                95,228     8475293-8570520
+91     age_data_part_91.csv                95,228     8570521-8665748
+92     age_data_part_92.csv                95,228     8665749-8760976
+93     age_data_part_93.csv                95,228     8760977-8856204
+94     age_data_part_94.csv                95,228     8856205-8951432
+95     age_data_part_95.csv                95,228     8951433-9046660
+96     age_data_part_96.csv                95,228     9046661-9141888
+97     age_data_part_97.csv                95,228     9141889-9237116
+98     age_data_part_98.csv                95,228     9237117-9332344
+99     age_data_part_99.csv                95,228     9332345-9427572
+100    age_data_part_100.csv               95,181     9427573-9522753
