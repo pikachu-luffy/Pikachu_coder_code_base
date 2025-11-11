@@ -1,3 +1,19 @@
 age_data.csv
 chocolate_consumption_data.csv
 source_data.csv
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
