@@ -267,11 +267,12 @@ def main():
     # Configuration
     # input_file = "age_data.csv"
     # input_file = "source_data.csv"
-    input_file = "chocolate_consumption_data.csv"
+    # input_file = "chocolate_consumption_data.csv"
+    input_file = "parent_flag_data.csv"
     num_files = 100
     # output_dir = "age_data_100_files"
     # output_dir = "source_data_100_files"
-    output_dir = "chocolate_consumption_data_100_files"
+    output_dir = "parent_flag_data_100_files"
     
     # Check if input file exists
     if not os.path.exists(input_file):
