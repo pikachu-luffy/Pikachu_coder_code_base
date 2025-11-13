@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# yolo models
+yolo11n.pt
+
+# media files
+media/raw_frames/
+media/annotated_frames
